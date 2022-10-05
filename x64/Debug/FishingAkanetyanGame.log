@@ -1,2 +1,6 @@
 ﻿  main.cpp
+C:\MyGameProjects\FishingAkanetyanGame\main.cpp(41,16): warning C4101: 'aoi': ローカル変数は 1 度も使われていません。
+C:\MyGameProjects\FishingAkanetyanGame\main.cpp(41,31): warning C4101: 'haikei': ローカル変数は 1 度も使われていません。
+C:\MyGameProjects\FishingAkanetyanGame\main.cpp(41,9): warning C4101: 'akane': ローカル変数は 1 度も使われていません。
+C:\MyGameProjects\FishingAkanetyanGame\main.cpp(41,21): warning C4101: 'ebihurai': ローカル変数は 1 度も使われていません。
   FishingAkanetyanGame.vcxproj -> C:\MyGameProjects\FishingAkanetyanGame\x64\Debug\FishingAkanetyanGame.exe
